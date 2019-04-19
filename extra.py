@@ -1,3 +1,5 @@
+#Mostly stolen from rosettacode
+
 def lerp(w, a, b):
     return a + w * (b - a)
 
